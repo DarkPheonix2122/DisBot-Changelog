@@ -1,3 +1,4 @@
+2.2.4
 **CHANGELOG**
- + Added a few Interaction commands!
- + Updated Help Command!
+ + Fixed Buggy Prefix Command
+ - Disabled Mute\Unmute until fixed.
