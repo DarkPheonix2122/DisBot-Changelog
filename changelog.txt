@@ -1,3 +1,4 @@
 **CHANGELOG**
+ - ${version}
  + Added a few Interaction commands!
  + Updated Help Command!
