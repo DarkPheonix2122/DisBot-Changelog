@@ -1,4 +1,7 @@
-**__v2.2.4__**
+**__v2.0.0__**
 **CHANGELOG**
- + Fixed Buggy Prefix Command
- - Disabled Mute\Unmute until fixed.
+ + Updated to discord.js v13
+ - Removed Music commands
+ ---------------------------------------
+**NOTE**: If you find any bugs please
+let me know at DarkPheonix#1001 😁
