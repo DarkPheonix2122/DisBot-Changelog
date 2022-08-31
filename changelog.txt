@@ -1,7 +1,7 @@
-**__v2.0.0__**
+**__v2.1.0__**
 **CHANGELOG**
- + Updated to discord.js v13
- - Removed Music commands
+ + Added Music Commands again
+ + Updated settings, prefix, and a few others
  ---------------------------------------
 **NOTE**: If you find any bugs please
 let me know at DarkPheonix#1001 😁
